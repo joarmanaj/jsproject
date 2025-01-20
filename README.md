@@ -1,1 +1,1 @@
-# jsproject
+# my javascript project
